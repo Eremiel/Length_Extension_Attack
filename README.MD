@@ -4,3 +4,11 @@ An interesting issue arises with this type of hash function: If you have a messa
 https://www.whitehatsec.com/blog/hash-length-extension-attacks/
 
 This repo contains simple python script, used to launch an LE attack. It uses hlextend library provided by https://github.com/stephenbradshaw/hlextend
+
+
+Usage:
+set the values for
+-mydata
+-knowndata
+-knownhash
+and mofiy the url to fit your use. Launch the script.
