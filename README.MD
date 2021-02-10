@@ -7,8 +7,10 @@ This repo contains simple python script, used to launch an LE attack. It uses hl
 
 
 Usage:
-set the values for
--mydata
--knowndata
--knownhash
+
+set the values for:
+* mydata
+* knowndata
+* knownhash
+
 and mofiy the url to fit your use. Launch the script.
